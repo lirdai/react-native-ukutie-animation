@@ -1,2 +1,2 @@
 # react-native-ukutieapp-animation
-cute animation I wrote
+cute animations I wrote
